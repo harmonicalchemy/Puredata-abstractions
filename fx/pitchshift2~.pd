@@ -1,8 +1,8 @@
-#N canvas 44 51 539 515 10;
+#N canvas 495 75 539 515 10;
 #X obj 82 -88 inlet~;
 #X obj 212 -86 inlet;
-#N canvas 0 0 450 300 (subpatch) 0;
-#X array \$0tmp 441 float 3;
+#N canvas 0 22 450 300 (subpatch) 0;
+#X array \$0tmp 441 float 3 black black;
 #A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
